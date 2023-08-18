@@ -1,0 +1,15 @@
+/Users/mac/Desktop/HW/hwfinal1/obj/Debug/net7.0/hwfinal1.csproj.AssemblyReference.cache
+/Users/mac/Desktop/HW/hwfinal1/obj/Debug/net7.0/hwfinal1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/HW/hwfinal1/obj/Debug/net7.0/hwfinal1.AssemblyInfoInputs.cache
+/Users/mac/Desktop/HW/hwfinal1/obj/Debug/net7.0/hwfinal1.AssemblyInfo.cs
+/Users/mac/Desktop/HW/hwfinal1/obj/Debug/net7.0/hwfinal1.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/HW/hwfinal1/bin/Debug/net7.0/hwfinal1
+/Users/mac/Desktop/HW/hwfinal1/bin/Debug/net7.0/hwfinal1.deps.json
+/Users/mac/Desktop/HW/hwfinal1/bin/Debug/net7.0/hwfinal1.runtimeconfig.json
+/Users/mac/Desktop/HW/hwfinal1/bin/Debug/net7.0/hwfinal1.dll
+/Users/mac/Desktop/HW/hwfinal1/bin/Debug/net7.0/hwfinal1.pdb
+/Users/mac/Desktop/HW/hwfinal1/obj/Debug/net7.0/hwfinal1.dll
+/Users/mac/Desktop/HW/hwfinal1/obj/Debug/net7.0/refint/hwfinal1.dll
+/Users/mac/Desktop/HW/hwfinal1/obj/Debug/net7.0/hwfinal1.pdb
+/Users/mac/Desktop/HW/hwfinal1/obj/Debug/net7.0/hwfinal1.genruntimeconfig.cache
+/Users/mac/Desktop/HW/hwfinal1/obj/Debug/net7.0/ref/hwfinal1.dll
